@@ -1,0 +1,93 @@
+
+
+New Application Start: 28e-DE, Local
+
+Step Changed:
+ Scenario: Cofe
+ Task: 0
+ Section: 0
+ General Counter: 0
+ 28e-DE, Local
+
+
+Step Changed:
+ Scenario: Cofe
+ Task: 0
+ Section: 1
+ General Counter: 1
+ 28e-DE, Local
+
+
+Step Changed:
+ Scenario: Cofe
+ Task: 1
+ Section: 1
+ General Counter: 2
+ 28e-DE, Local
+
+
+Step Changed:
+ Scenario: Cofe
+ Task: 2
+ Section: 1
+ General Counter: 3
+ 28e-DE, Local
+
+
+Step Changed:
+ Scenario: Cofe
+ Task: 3
+ Section: 1
+ General Counter: 4
+ 28e-DE, Local
+
+
+Step Changed:
+ Scenario: Cofe
+ Task: 4
+ Section: 1
+ General Counter: 5
+ 28e-DE, Local
+
+
+Step Changed:
+ Scenario: Cofe
+ Task: 5
+ Section: 1
+ General Counter: 6
+ 28e-DE, Local
+
+
+Step Changed:
+ Scenario: Cofe
+ Task: 6
+ Section: 1
+ General Counter: 7
+ 28e-DE, Local
+
+
+Step Changed:
+ Scenario: Cofe
+ Task: 0
+ Section: 2
+ General Counter: 8
+ 28e-DE, Local
+
+
+Step Changed:
+ Scenario: Cofe
+ Task: 1
+ Section: 2
+ General Counter: 9
+ 28e-DE, Local
+
+
+Step Changed:
+ Scenario: Cofe
+ Task: 2
+ Section: 2
+ General Counter: 10
+ 28e-DE, Local
+
+
+Ste
